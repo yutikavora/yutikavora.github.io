@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a0d7add5.css",
+    "main.js": "/static/js/main.6a42a704.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/virtualmirror.png": "/static/media/virtualmirror.b2d8852115079e3269a6.png",
+    "static/media/API.png": "/static/media/API.40d547f68cd470a435b5.png",
+    "static/media/clothing.png": "/static/media/clothing.6e11bc0468163507117f.png",
+    "static/media/YutikaKiranVora_Resume.pdf": "/static/media/YutikaKiranVora_Resume.4681704e28d98846c684.pdf",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/logo.png": "/static/media/logo.4b322f32b29821d03221.png",
+    "static/media/avatar.jpeg": "/static/media/avatar.0901b70ffc025f1cd344.jpeg",
+    "static/media/plagiarism.png": "/static/media/plagiarism.573545c62145a5395c5e.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.a0d7add5.css.map": "/static/css/main.a0d7add5.css.map",
+    "main.6a42a704.js.map": "/static/js/main.6a42a704.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0d7add5.css",
+    "static/js/main.6a42a704.js"
+  ]
+}
