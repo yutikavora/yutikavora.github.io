@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Yutika Kiran Vora </span>
             from <span className="purple"> Arizona, USA</span>
             <br />
-            I am currently employed as a software developer at Privoro LLC.
+            I am currently employed as a software developer at American Express.
             <br />
             I am pursuing my Master of Science in Information Technology
             (Project Management) from Arizona State University, Arizona, USA.
